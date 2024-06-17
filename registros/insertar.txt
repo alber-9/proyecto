@@ -1,0 +1,8 @@
+
+
+INSERT INTO producto  (empresa, genero, fecha, variedad, kilos, precios) VALUES ('caicedo', 'calabacines', '2024-06-13', 'calabacines', 101, 2);
+INSERT INTO producto  (empresa, genero, fecha, variedad, kilos, precios) VALUES ('caicedo', 'pimiento lamuyo', '2024-06-13', 'pimiento lamuyo', 44, 1);
+INSERT INTO `cultivos` (`Genero`, `Parcela`, `Temporada`, `CantidadPlanta`, `Nombre`) VALUES ('55', '545', '5454', '4545', '5jhk')
+INSERT INTO `cultivos` (`Genero`, `Parcela`, `Temporada`, `CantidadPlanta`, `Nombre`) VALUES ('nm', 'vbnvb', '5454', '4545', '5jhk')
+INSERT INTO `cultivos` (`Genero`, `Parcela`, `Temporada`, `CantidadPlanta`, `Nombre`) VALUES ('nm', 'vbnvb', '5454', '4545', 'jhgj')
+INSERT INTO `cultivos` (`Genero`, `Parcela`, `Temporada`, `CantidadPlanta`, `Nombre`) VALUES ('tomate', 'invernadero 1', '2024', '1200', 'Tomate 1, TT bola ,Tomate 2')
